@@ -19,10 +19,10 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=rajarshikar&color=0284c7&style=flat-square&label=Profile+Views" alt="Visitor Count" />
 
-* 🎓 **Background:** I'm an Electronics and Communication Engineering (ECE) student exploring the intersection of hardware logic and software intelligence.
-* 🚀 **Interests:** Passionate about building modern web applications, experimenting with AI workflows, and occasionally leaning into AI-assisted "vibe coding" to bring ideas to life fast.
+* 🎓 **Background:** I'm an Electronics and Communication Engineering (ECE) student bridging the gap between hardware logic and software applications.
+* 🚀 **Interests:** Enthusiastic about web development and AI, frequently leveraging AI-assisted "vibe coding" to prototype and build things fast.
 * 🛠️ **Primary Languages:** Python & JavaScript.
-* 🌱 **Current Focus:** Creating full-stack web solutions, automation scripts, and exploring cloud deployment.
+* 🌱 **Current Focus:** Crafting full-stack web solutions and exploring smart tech integrations.
 
 ---
 

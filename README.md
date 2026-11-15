@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+👋+I'm+Rajarshi+Kar;+ECE+Student+%26+Tech+Builder;+Exploring+WebDev+%26+AI" alt="Typing SVG" />
+</div>
 
-<!--
-**rajarshikar/rajarshikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajarshi-kar-unor4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/rajarshikar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 About Me
+
+<img align="right" src="https://komarev.com/ghpvc/?username=rajarshikar&color=0284c7&style=flat-square&label=Profile+Views" alt="Visitor Count" />
+
+* 🎓 **Background:** I'm an Electronics and Communication Engineering (ECE) student exploring the intersection of hardware logic and software intelligence.
+* 🚀 **Interests:** Passionate about building modern web applications, experimenting with AI workflows, and occasionally leaning into AI-assisted "vibe coding" to bring ideas to life fast.
+* 🛠️ **Primary Languages:** Python & JavaScript.
+* 🌱 **Current Focus:** Creating full-stack web solutions, automation scripts, and exploring cloud deployment.
+
+---
+
+### ⚡ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,express,git,github,vscode,pycharm,arduino,matlab" />
+</p>
+
+---
+
+### 📈 GitHub Stats & Analytics
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=rajarshikar&show_icons=true&theme=onedark&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" alt="Rajarshi's GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajarshikar&layout=compact&theme=onedark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajarshikar&theme=onedark&hide_border=true&background=0f172a&side_badge_color=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8" alt="GitHub Streak" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
+</div>
